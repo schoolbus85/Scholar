@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/schoolbus85/Scholar",
+  "repository": "https://github.com/schoolbus85/Scholar",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
